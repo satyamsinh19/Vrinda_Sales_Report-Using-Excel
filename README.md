@@ -25,7 +25,7 @@ End-to-end sales analysis using **Microsoft Excel** – including:
 - 👩‍🦰 **Women customers generate more revenue**, even with fewer orders than men
 - 🏆 **92% of orders delivered successfully**, with minimal cancellations/refunds
 - 🌍 **Maharashtra and Karnataka** lead in total sales among all states
-- 📅 **March and June** see seasonal sales peaks
+- 📅 **March and February** see seasonal sales peaks
 - 🧒 **Adults (33%)** dominate the order base across platforms
 - 🛍️ **Amazon, Flipkart, and Myntra** account for over 80% of channel-wise sales
 
