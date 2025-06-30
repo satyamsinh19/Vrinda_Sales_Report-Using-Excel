@@ -64,3 +64,7 @@ End-to-end sales analysis using **Microsoft Excel** – including:
 👤 **Satyam Kumar**  
 🌐 [LinkedIn](https://www.linkedin.com/in/satyam-kumar-5a229222b)  
 📬 **satyamkv123@gmail.com**
+
+
+**Note:** 
+This is a guided project.
