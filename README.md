@@ -45,6 +45,7 @@ End-to-end sales analysis using **Microsoft Excel** – including:
 | File Name                    | Description                                |
 |-----------------------------|--------------------------------------------|
 | `Vrinda Store Data.xlsx`    | Raw dataset used for dashboard             |
+| `Vrinda Sales Analysis Dashboard.xlsx`    | Dataset used along with pivot tables and dashboard             |
 | `Vrinda_Sales_Report.png`   | Screenshot of the final Excel dashboard    |
 | `Vrinda_Sales_Report.pdf` | Clean, full-page PDF export of the dashboard |
 | `README.md`                 | This project documentation                 |
